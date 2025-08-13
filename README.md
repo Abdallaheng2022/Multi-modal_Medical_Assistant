@@ -1,6 +1,6 @@
 # Multi‑Modal Medical Assistant (Unofficial)
 
-[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20demo-000?logo=youtube&logoColor=white)]
+[![Watch the demo](https://drive.google.com/thumbnail?id=18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz&sz=w1280)]
 (https://drive.google.com/file/d/18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz9S/view?usp=sharing)
 
 
