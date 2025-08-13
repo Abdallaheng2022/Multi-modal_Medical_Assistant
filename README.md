@@ -1,5 +1,9 @@
 # Multi‑Modal Medical Assistant (Unofficial)
 
+[![Watch the demo](https://img.shields.io/badge/▶️%20Watch%20demo-000?logo=youtube&logoColor=white)]
+(https://drive.google.com/file/d/18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz9S/view?usp=sharing)
+
+
 A Streamlit app that turns **documents + images** into **chat‑ready context** using OCR, semantic/fixed chunking, and vector search. It combines:
 
 - **OCR / Layout extraction**: Azure Document Intelligence (prebuilt‑layout), Google Document AI (optional), EasyOCR (fallback for images)
