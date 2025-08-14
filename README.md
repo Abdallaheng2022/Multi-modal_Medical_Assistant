@@ -1,7 +1,8 @@
 # Multi‑Modal Medical Assistant (Unofficial)
 
 You can follow the details of app here from this video
-https://drive.google.com/file/d/18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz9S/view?usp=sharing
+
+[![Demo Video](https://drive.google.com/thumbnail?id=18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz9S&sz=w640-h360)](https://drive.google.com/file/d/18nAMFV3y-Kr0JLwqpgWGhJYANnNMrz9S/view?usp=sharing)
 
 
 A Streamlit app that turns **documents + images** into **chat‑ready context** using OCR, semantic/fixed chunking, and vector search. It combines:
